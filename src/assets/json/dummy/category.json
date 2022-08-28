@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "category": "Primary Math"
+        },
+        {
+            "id": 2,
+            "category": "Secondary Math"
+        },
+        {
+            "id": 3,
+            "category": "Junior College Math"
+        }
+    ]
+}
